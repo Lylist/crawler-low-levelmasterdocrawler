@@ -41,13 +41,13 @@
 
 | 姓名                                    | 学号       | 分工                           |
 | --------------------------------------- | ---------- | ------------------------------ |
-| [雷云霖](https://github.com/Lylist)     | 3120201035 | 系统架构搭建，scrapy健壮性优化 |
-| [魏博](https://github.com/Web985)       | 3120201080 | 数据库，scrapy速度优化         |
-| [李家伟](https://github.com/Captainr22) | 3120201036 | crossmind网站爬取              |
-| [马放](https://github.com/BD-MF)        |3120201055  | acl网站爬取                    |
-| [宦紫仪](https://github.com/hsnowsunny) |3220200891  | paperwithcode网站爬取          |
-| [蔡建](https://github.com/MrdotCai)     | 3120201001 | arxiv网站爬取，IP池开发        |
-| [吴为伦](https://github.com/PoolSon)    |3120201082  | paperweekly网站爬取            |
+| [雷云霖](https://github.com/Lylist)     | | 系统架构搭建，scrapy健壮性优化 |
+| [魏博](https://github.com/Web985)       | | 数据库，scrapy速度优化         |
+| [李家伟](https://github.com/Captainr22) | | crossmind网站爬取              |
+| [马放](https://github.com/BD-MF)        | | acl网站爬取                    |
+| [宦紫仪](https://github.com/hsnowsunny) | | paperwithcode网站爬取          |
+| [蔡建](https://github.com/MrdotCai)     | | arxiv网站爬取，IP池开发        |
+| [吴为伦](https://github.com/PoolSon)    | | paperweekly网站爬取            |
 
 ## <span id="head5"> 功能特色</span>
 
